@@ -41,7 +41,13 @@ pip install -r requirements.txt
 
 ## Ejecución
 
-Desde la carpeta del proyecto y en este orden, porque cada script lee lo que guarda el anterior:
+Desde la carpeta del proyecto:
+
+```
+python src/main.py
+```
+
+Si faltan los archivos de `data/processed/`, `main.py` ejecuta antes las fases 1 a 3. Cada fase también se puede correr por separado, en este orden, porque cada script lee lo que guarda el anterior:
 
 ```
 python src/perfiles.py       # Fase 1: data/processed/perfiles.csv
@@ -49,8 +55,6 @@ python src/agrupamiento.py   # Fase 2: data/processed/grupos.csv
 python src/analisis.py       # Fase 3: nombres de los grupos y figuras en docs/figuras/
 python src/main.py           # Fase 4: programa de consulta
 ```
-
-Los archivos de `data/processed/` y `docs/figuras/` ya están en el repositorio, así que se puede ir directo a `main.py` o a las pruebas.
 
 ## Pruebas
 
