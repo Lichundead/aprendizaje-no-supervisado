@@ -1,0 +1,122 @@
+codigo,nombre,troncal,es_portal,es_transbordo,grupo,nombre_grupo
+02001,Centro Comercial Santa Fe,Zona B AutoNorte,0,0,0,Mixto
+02102,Calle 161,Zona B AutoNorte,0,0,0,Mixto
+02103,Mazurén,Zona B AutoNorte,0,0,0,Mixto
+02104,Calle 146,Zona B AutoNorte,0,0,0,Mixto
+02105,Calle 142,Zona B AutoNorte,0,0,0,Mixto
+02201,Prado,Zona B AutoNorte,0,0,0,Mixto
+02202,Calle 127,Zona B AutoNorte,0,0,2,Destino
+02502,Terminal,Zona B AutoNorte,0,0,0,Mixto
+03000,Portal Suba,Zona C Av. Suba,1,0,1,Origen
+03001,LA CAMPIÑA,Zona C Av. Suba,0,0,1,Origen
+03002,SUBA - TV- 91,Zona C Av. Suba,0,0,1,Origen
+03003,21 ANGELES,Zona C Av. Suba,0,0,1,Origen
+03004,GRATAMIRA,Zona C Av. Suba,0,0,0,Mixto
+03005,SUBA - AV. BOYACA,Zona C Av. Suba,0,0,0,Mixto
+03006,NIZA - CALLE 127,Zona C Av. Suba,0,0,2,Destino
+03007,HUMEDAL CORDOBA,Zona C Av. Suba,0,0,0,Mixto
+03009,Av. Suba- Calle 116,Zona C Av. Suba,0,0,2,Destino
+03010,PUENTE LARGO,Zona C Av. Suba,0,0,2,Destino
+03011,SUBA - CALLE 100,Zona C Av. Suba,0,0,2,Destino
+03012,SUBA - CALLE 95,Zona C Av. Suba,0,0,2,Destino
+03013,RIO NEGRO,Zona C Av. Suba,0,0,2,Destino
+03014,SAN MARTIN,Zona C Av. Suba,0,0,2,Destino
+04000,Cabecera Calle 80,Zona D Calle 80,0,0,1,Origen
+04001,Quirigua,Zona D Calle 80,0,0,1,Origen
+04002,Carrera 90,Zona D Calle 80,0,0,0,Mixto
+04003,Avenida Ciudad de Cali,Zona D Calle 80,0,0,1,Origen
+04004,La Granja,Zona D Calle 80,0,0,0,Mixto
+04100,Carrera 77,Zona D Calle 80,0,0,0,Mixto
+04101,Minuto de Dios,Zona D Calle 80,0,0,0,Mixto
+04102,Avenida Boyaca,Zona D Calle 80,0,0,0,Mixto
+04103,Las Ferias,Zona D Calle 80,0,0,0,Mixto
+04104,Avenida 68,Zona D Calle 80,0,0,2,Destino
+04105,Carrera 53,Zona D Calle 80,0,0,0,Mixto
+04106,Carrera 47,Zona D Calle 80,0,0,0,Mixto
+04107,Escuela Militar,Zona D Calle 80,0,0,2,Destino
+05000,Portal Américas,Zona F Av. Américas,1,0,1,Origen
+05002,Tintal,Zona F Av. Américas,0,0,1,Origen
+05005,Transversal 86,Zona F Av. Américas,0,0,1,Origen
+05100,Banderas P. Central,Zona F Av. Américas,0,0,1,Origen
+05101,Mandalay - Cr.73,Zona F Av. Américas,0,0,1,Origen
+05102,Av. Américas - Av. Boyacá,Zona F Av. Américas,0,0,0,Mixto
+05103,Marsella,Zona F Av. Américas,0,0,0,Mixto
+05105,Pradera – Plaza Central,Zona F Av. Américas,0,0,2,Destino
+05107,Américas - Cr.53,Zona F Av. Américas,0,0,2,Destino
+06001,Modelia,Zona K Calle 26,0,0,0,Mixto
+06002,Normandía,Zona K Calle 26,0,0,0,Mixto
+06104,Gobernación,Zona K Calle 26,0,0,2,Destino
+06105,Quinta Paredes,Zona K Calle 26,0,0,2,Destino
+06106,Corferias,Zona K Calle 26,0,0,2,Destino
+06108,Concejo de Bogotá,Zona K Calle 26,0,0,2,Destino
+06109,Centro Memoria,Zona K Calle 26,0,0,2,Destino
+07001,PERDOMO,Zona G NQS Sur,0,0,1,Origen
+07002,MADELENA,Zona G NQS Sur,0,0,1,Origen
+07003,SEVILLANA,Zona G NQS Sur,0,0,0,Mixto
+07004,VENECIA,Zona G NQS Sur,0,0,0,Mixto
+07005,ALQUERIA,Zona G NQS Sur,0,0,0,Mixto
+07006,General Santander,Zona G NQS Sur,0,0,1,Origen
+07008,NQS - Calle 30 Sur,Zona G NQS Sur,0,0,0,Mixto
+07010,Bosa,Zona G NQS Sur,0,0,1,Origen
+07101,CASTELLANA,Zona E NQS Central,0,0,2,Destino
+07103,AV. CHILE,Zona E NQS Central,0,0,2,Destino
+07105,MOVISTAR ARENA,Zona E NQS Central,0,0,2,Destino
+07106,EL CAMPIN,Zona E NQS Central,0,0,2,Destino
+07107,U. NACIONAL,Zona E NQS Central,0,0,2,Destino
+07108,Av. El Dorado,Zona E NQS Central,0,0,2,Destino
+07109,CAD,Zona E NQS Central,0,0,2,Destino
+07110,PALOQUEMAO,Zona E NQS Central,0,0,2,Destino
+07111,NQS - RICAURTE,Zona E NQS Central,0,1,2,Destino
+07112,COMUNEROS,Zona G NQS Sur,0,0,0,Mixto
+07113,SANTA ISABEL,Zona G NQS Sur,0,0,0,Mixto
+07200,Tygua-San José,Zona E NQS Central,0,0,2,Destino
+07201,Guatoque -Veraguas,Zona E NQS Central,0,0,2,Destino
+07503,SAN MATEO - C.C. UNISUR,Zona G NQS Sur,0,0,1,Origen
+07504,TERREROS,Zona G NQS Sur,0,0,1,Origen
+07505,LEON XIII,Zona G NQS Sur,0,0,1,Origen
+07506,DESPENSA,Zona G NQS Sur,0,0,1,Origen
+08000,Portal Tunal,Zona H Caracas Sur,1,1,1,Origen
+08001,Parque el Tunal,Zona H Caracas Sur,0,0,1,Origen
+08002,Biblioteca,Zona H Caracas Sur,0,0,0,Mixto
+08100,Portal Tunal Cable,Zona H Caracas Sur,0,1,2,Destino
+09000,Cabecera Usme,Zona H Caracas Sur,0,0,1,Origen
+09001,Molinos,Zona H Caracas Sur,0,0,1,Origen
+09002,Consuelo,Zona H Caracas Sur,0,0,1,Origen
+09003,Socorro,Zona H Caracas Sur,0,0,1,Origen
+09004,Santa Lucía,Zona H Caracas Sur,0,0,1,Origen
+09005,Danubio,Zona H Caracas Sur,0,0,1,Origen
+09100,Calle 40 Sur,Zona H Caracas Sur,0,0,1,Origen
+09101,Quiroga,Zona H Caracas Sur,0,0,1,Origen
+09103,Olaya,Zona H Caracas Sur,0,0,0,Mixto
+09104,Restrepo,Zona H Caracas Sur,0,0,0,Mixto
+09105,Río Fucha,Zona H Caracas Sur,0,0,2,Destino
+09106,Nariño,Zona H Caracas Sur,0,0,0,Mixto
+09107,Hortúa,Zona H Caracas Sur,0,0,2,Destino
+09114,Calle 26,Zona A Caracas,0,0,2,Destino
+09123,Calle 76,Zona A Caracas,0,0,2,Destino
+10000,Portal 20 de Julio,Zona L Carrera 10,1,0,1,Origen
+10001,Country Sur,Zona L Carrera 10,0,0,1,Origen
+10002,Av. Primero de Mayo,Zona L Carrera 10,0,0,1,Origen
+10003,Ciudad Jardín,Zona L Carrera 10,0,0,0,Mixto
+10004,Policarpa,Zona L Carrera 10,0,0,0,Mixto
+10005,Bicentenario,Zona L Carrera 10,0,0,2,Destino
+10006,SAN VICTORINO - NEOS CENTRO,Zona L Carrera 10,0,0,2,Destino
+10007,Las Nieves,Zona L Carrera 10,0,0,2,Destino
+10008,San Diego,Zona L Carrera 10,0,0,2,Destino
+10010,San Bernardo,Zona L Carrera 10,0,0,0,Mixto
+12000,Puente Aranda,Zona F Calle 13,0,0,2,Destino
+12002,CDS - Carrera 32,Zona F Calle 13,0,0,2,Destino
+12003,Ricaurte,Zona F Calle 13,0,1,2,Destino
+12004,Carrera 22,Zona F Calle 13,0,0,2,Destino
+12007,Zona Industrial,Zona F Calle 13,0,0,2,Destino
+14001,La Sabana,Zona F Calle 13,0,0,2,Destino
+14004,Museo del Oro,Zona J Eje Ambiental,0,0,2,Destino
+15001,Tibanica - Primavera,Zona Z Av. Cali Sur,0,0,1,Origen
+15002,Los Laureles,Zona Z Av. Cali Sur,0,0,1,Origen
+15003,Islandia,Zona Z Av. Cali Sur,0,0,1,Origen
+40000,Cable Portal Tunal,Zona T Ciudad Bolívar,0,1,2,Destino
+40001,Juan Pablo II,Zona T Ciudad Bolívar,0,0,1,Origen
+40002,Manitas,Zona T Ciudad Bolívar,0,0,1,Origen
+40003,Mirador del Paraiso,Zona T Ciudad Bolívar,0,0,1,Origen
+50003,Corral Molinos,Zona H Caracas Sur,0,0,1,Origen
+57503,Ampliacion San Mateo,Zona G NQS Sur,0,0,1,Origen
